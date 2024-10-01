@@ -5,13 +5,13 @@
 
 /* media queries */
 
-body {
+.body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 
-header, main, footer {
+.head, .main, .footer {
     padding: 10px;
     text-align: center;
 }
@@ -30,11 +30,11 @@ p {
 
 /* Media query para tabletas */
 @media (min-width: 600px) {
-    body {
+    .body {
         padding: 20px;
     }
 
-    header, main, footer {
+    .head, .main, .footer {
         padding: 20px;
         text-align: left;
     }
@@ -59,7 +59,7 @@ p {
         margin: 0 auto;
     }
 
-    .header, .main, .footer {
+    .head, .main, .footer {
         display: flex;
         justify-content: space-between;
         padding: 30px;
