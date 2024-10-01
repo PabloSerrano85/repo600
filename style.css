@@ -189,3 +189,97 @@ display: block;
 
 /*---------------Pagina Info-----------------*/
 
+.info__body-titulo{
+    margin-top: 10%;
+}
+
+#footer__info{
+    padding: 0%;
+    width: 100%;
+    height: 100%;
+    
+
+    
+
+}
+
+.Footer__info-foot{
+    display: flex;
+justify-content: space-between;
+margin-top: 5%;
+
+}
+
+.footer__info-card{
+    margin-right: 10%;
+}
+
+
+.footer__info-redes{
+    margin-top: 5%;
+
+
+
+    
+}
+
+
+
+/*---------------Pagina Contacto-----------------*/
+
+
+.Contacto__header-redes{
+    margin-left: 90%;
+}
+
+.Contacto__body-local{
+    display: flex;
+    justify-content:space-around;
+    margin-bottom: 5%;
+}
+
+.contacto__body-form{
+    width: 500px;
+    padding: 0%;
+    margin-top: 5%;
+    margin: 0%;
+    font-size: 100%;
+    display: flex;
+    border-style:solid;
+
+}
+
+.contacto__body-titulo{
+margin-top: 0%;
+}
+
+.formulario{
+    margin-top: 10%;
+}
+
+.Contacto__body-image{
+    margin-left: 30%;
+    
+}
+
+#Contacto__footer{
+    padding: 0%;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.Contacto__Footer-sect{
+    display: flex;
+    margin-top: 5%;
+}
+
+
+.contacto__footer-card{
+    margin-left: 20%;
+}
+
+.contacto__footer-redes{
+    margin-left: 35%;
+    margin-top: 5%;
+}
