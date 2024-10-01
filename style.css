@@ -276,6 +276,20 @@ display: block;
 
 .info__body-titulo{
     margin-top: 10%;
+    font-style: oblique;
+}
+
+
+
+.info__foto-local{
+    width: 30%;
+    margin-left: 2%;
+    
+}
+
+.info__foto-local2{
+    width: 50%;
+    margin-left: 5%;
 }
 
 #footer__info{
