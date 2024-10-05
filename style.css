@@ -306,23 +306,37 @@ display: block;
 
 
 .Giftshop__body-fotos{
-    display: flex;
-    justify-content: space-between;
-    height: 300px;
-    object-fit: cover;
+    padding: 0%;
+    width: 100%;
     margin-top: 5%;
+
     
 }
 
+.card-block7{
+    margin-left: 2%;
+}
 
+.card-block8{
+    margin-left: 10%;
+}
+
+.card-block9{
+    margin-left: 15%;
+}
 
 .Giftshop__body-fotos2{
-    display: flex;
-    justify-content: space-between;
-    margin-top: 10%;
-    height: 300px;
-    object-fit: cover
-    
+
+    margin-top: 10%; 
+}
+
+.card-block10{
+    margin-left: 2%;
+
+}
+
+.card-block11{
+    margin-left: 45%;
 }
 
 #footer__Giftshop{
@@ -330,6 +344,7 @@ display: block;
     justify-content: space-between;
     margin-top: 10%;
 }
+
 
 
 .footer__giftshop-redes{
